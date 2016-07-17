@@ -1,0 +1,8 @@
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\bin\Debug\SuperConfigTests.dll.config
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\bin\Debug\SuperConfigTests.dll
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\bin\Debug\SuperConfigTests.pdb
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\bin\Debug\KeyConfig-Net.dll
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\bin\Debug\KeyConfig-Net.pdb
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\obj\Debug\SuperConfigTests.csprojResolveAssemblyReference.cache
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\obj\Debug\SuperConfigTests.dll
+c:\users\jake\documents\visual studio 2013\Projects\SuperConfig-Net\SuperConfigTests\obj\Debug\SuperConfigTests.pdb

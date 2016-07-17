@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyConfig-Net", "KeyConfig-Net\KeyConfig-Net.csproj", "{3A1F111B-E2B8-4421-9B60-4437DB6E019B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyConfigTests", "KeyConfigTests\KeyConfigTests.csproj", "{613CBB84-E129-4822-82F8-9B9A0B7A91E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1F111B-E2B8-4421-9B60-4437DB6E019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1F111B-E2B8-4421-9B60-4437DB6E019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1F111B-E2B8-4421-9B60-4437DB6E019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1F111B-E2B8-4421-9B60-4437DB6E019B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613CBB84-E129-4822-82F8-9B9A0B7A91E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613CBB84-E129-4822-82F8-9B9A0B7A91E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613CBB84-E129-4822-82F8-9B9A0B7A91E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613CBB84-E129-4822-82F8-9B9A0B7A91E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
